@@ -42,9 +42,8 @@ if (isset($_POST['login'])) {
     <div class="wrapper">
         <form action="/belajarphp.com/halamanlogin_revisi/halamanlogin.php" method="post">
             <h1>Masuk</h1>
-            <h1>ini coba coba</h1>
             <div class="input-box">
-                <input type="text" name="username" placeholder="Username" required>
+                <input type="text" name="username" placeholder="nama broww" required>
                 <i class='bx bxs-user'></i>
             </div>
 
