@@ -43,7 +43,7 @@ if (isset($_POST['login'])) {
         <form action="/belajarphp.com/halamanlogin_revisi/halamanlogin.php" method="post">
             <h1>Masuk</h1>
             <div class="input-box">
-                <input type="text" name="username" placeholder="nama broww" required>
+                <input type="text" name="username" placeholder="nama browww" required>
                 <i class='bx bxs-user'></i>
             </div>
 
