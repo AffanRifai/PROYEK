@@ -44,6 +44,7 @@ if (isset($_POST['login'])) {
             <h1>Masuk</h1>
             <div class="input-box">
                 <input type="text" name="username" placeholder="halo gussy" required>
+                <input type="text" name="username" placeholder="nama browww" required>
                 <i class='bx bxs-user'></i>
             </div>
 
